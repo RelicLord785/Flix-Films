@@ -4,7 +4,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 Submitted by: **Christopher Eubank**
 
-Time Spent: **2** hours spent in total
+Time Spent: **3** hours spent in total
 
 📝 `NOTE - PASTE PART 2 SNIPPET HERE:` Paste the README template for part 2 of this assignment here at the top. This will show a history of your development process, which users stories you completed and how your app looked and functioned at each step.
 
@@ -12,8 +12,6 @@ Time Spent: **2** hours spent in total
 
 ## Flix Part 1
 
-### User Stories
-`TODO://` In the **User Stories section below**, add an `x` in the `-[ ]` like this `- [x]` for any user story you complete. (🚫 Remove this paragraph after after checking off completed user stories)
 
 #### REQUIRED (10pts)
 - [x ] (2pts) User sees an app icon on the home screen and a styled launch screen.
@@ -29,5 +27,3 @@ Time Spent: **2** hours spent in total
 
 <img src="Flix_Films Demonstration.gif" width=250><br>
 
-### Notes
-Describe any challenges encountered while building the app.
