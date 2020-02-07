@@ -1,5 +1,9 @@
 ## Flix Part 2
 
+Submitted by: **Christopher Eubank**
+
+Time Spent: **3** hours spent in total
+
 ### User Stories
 
 #### REQUIRED (10pts)
@@ -13,7 +17,7 @@
 ### App Walkthough GIF
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="Flix_Films Part 2 Demonstration.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
@@ -26,7 +30,6 @@ Submitted by: **Christopher Eubank**
 
 Time Spent: **3** hours spent in total
 
-📝 `NOTE - PASTE PART 2 SNIPPET HERE:` Paste the README template for part 2 of this assignment here at the top. This will show a history of your development process, which users stories you completed and how your app looked and functioned at each step.
 
 ---
 
@@ -43,7 +46,6 @@ Time Spent: **3** hours spent in total
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
 <img src="Flix_Films Demonstration.gif" width=250><br>
 
